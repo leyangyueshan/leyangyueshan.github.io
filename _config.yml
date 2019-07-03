@@ -1,7 +1,7 @@
 # Site settings
 title: BY XI
 SEOTitle: 小木子的博客 | BY XI
-header-img: img/post-bg-desk.jpg
+header-img: img/tianjing.png
 email: 1223196454@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY XI, 小木子的博客, xiaomuzi, 小木子, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "love xiaomuzi!"
-#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
